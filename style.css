@@ -19,7 +19,7 @@ input{
 }
 
 .maincolor{
-        background-color: #000
+        background-color:#000
 }
 
 .num{
@@ -27,6 +27,11 @@ input{
         height: 67px;
 }
 
+.num1{
+        width: 257px;
+        height: 67px;
+  
+}
 .text{
         width: 160px;
         height: 26px;
@@ -46,18 +51,10 @@ input{
         background-color: #0cd0cd
 }
 
-.pin{
-        background-color: #cf1596
-}
-
 .gre{
         background-color: #aad800
 }
 
 .pur{
         background-color: #8c52f0
-}
-
-.ora{
-        background-color: #fcb707
 }
